@@ -1,6 +1,6 @@
 # TranslatePro - موقع خدمات الترجمة
 
-![TranslatePro Preview](tra.png)
+![TranslatePro Preview](./images/tra.PNG)
 
 ## نبذة عن الموقع
 موقع TranslatePro هو منصة احترافية لخدمات الترجمة، يقدم مجموعة متنوعة من خدمات الترجمة باحترافية عالية وجودة متميزة.
@@ -32,4 +32,4 @@
 3. استمتع بتصفح الموقع
 
 ## الترخيص
-جميع الحقوق محفوظة © 2024 TranslatePro
+جميع الحقوق محفوظة 2024 TranslatePro
